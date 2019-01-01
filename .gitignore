@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+
+# Ruby
+.bundle/
+vendor/
+.byebug_history
+.ruby-gemset
+.ruby-version
+*.gem
+Gemfile.lock
