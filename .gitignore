@@ -11,4 +11,3 @@ vendor/
 .ruby-gemset
 .ruby-version
 *.gem
-Gemfile.lock
